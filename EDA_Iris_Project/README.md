@@ -1,0 +1,1 @@
+# Iris EDA Project\nRun `EDA_Iris_Project.ipynb` after placing iris.csv in the same folder.
